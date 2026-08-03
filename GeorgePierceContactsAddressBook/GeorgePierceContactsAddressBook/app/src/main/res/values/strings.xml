@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">George Pierce - Contacts Address Book</string>
+    <string name="contact_name1">Alex James</string>
+    <string name="contact_name2">Allie Gladstein</string>
+    <string name="button_directions">Tap to View Contact</string>
+    <string name="contact_address1">19 Demeritt Avenue, Lee, NH 03861</string>
+    <string name="contact_address2">109 Gum Avenue, Virginia Beach, VA 23452</string>
+    <string name="contact_phone1">757-111-2222</string>
+    <string name="contact_phone2">757-222-3333</string>
+    <string name="address_spec">Address:</string>
+    <string name="phon_num_spec">Phone Number:</string>
+    <string name="email_spec">Email:</string>
+    <string name="contact_email1">example@yahoo.com</string>
+    <string name="contact_email2">anotherexample@gmail.com</string>
+</resources>
